@@ -1,0 +1,6 @@
+Target dependency graph (3 targets)
+Landmarks in Landmarks, no dependencies
+LandmarksTests in Landmarks, depends on:
+Landmarks in Landmarks (explicit)
+LandmarksUITests in Landmarks, depends on:
+Landmarks in Landmarks (explicit)

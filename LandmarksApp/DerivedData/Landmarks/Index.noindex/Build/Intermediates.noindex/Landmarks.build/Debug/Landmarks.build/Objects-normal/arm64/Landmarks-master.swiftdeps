@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.7.1 (swiftlang-5.7.1.135.3 clang-1400.0.29.51)"
+options: "cc7e938fc445f5eb38a9f647ca40a987c14b306da95a74ccb52bdd7203d1a8a4"
+build_start_time: [1670293667, 705767154]
+build_end_time: [1670293667, 923243045]
+inputs:
+  "/Users/bobbypalmer/Desktop/Landmarks/Landmarks/ContentView.swift": [1670293660, 357982158]
+  "/Users/bobbypalmer/Desktop/Landmarks/Landmarks/LandmarksApp.swift": [1670293660, 356618165]

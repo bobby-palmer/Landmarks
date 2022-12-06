@@ -1,0 +1,28 @@
+{
+  "source": "/Users/bobbypalmer/Desktop/Landmarks/DerivedData/Landmarks/Build/Intermediates.noindex/Previews/Landmarks/Intermediates.noindex/Landmarks.build/Debug/Landmarks.build/Objects-normal/arm64/ContentView.1.preview-thunk.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Turtle Rock"
+      },
+      {
+        "comment": "",
+        "key": "About turtle rock"
+      },
+      {
+        "comment": "",
+        "key": "Desscription goes here"
+      },
+      {
+        "comment": "",
+        "key": "Joshua Tree National Park"
+      },
+      {
+        "comment": "",
+        "key": "California"
+      }
+    ]
+  },
+  "version": 1
+}

@@ -1,0 +1,20 @@
+{
+  "source": "/Users/bobbypalmer/Desktop/Landmarks/Landmarks/ContentView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Turtle Rock"
+      },
+      {
+        "comment": "",
+        "key": "Joshua Tree National Park"
+      },
+      {
+        "comment": "",
+        "key": "California"
+      }
+    ]
+  },
+  "version": 1
+}

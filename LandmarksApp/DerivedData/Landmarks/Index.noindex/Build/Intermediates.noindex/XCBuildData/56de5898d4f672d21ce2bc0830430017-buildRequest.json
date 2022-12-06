@@ -1,0 +1,60 @@
+{
+  "_buildCommand2" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : true,
+    "targets" : null
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "3bff87d623d8b087e0976572e5f3fd6d48478c48153303cec64f05c309be2834"
+    }
+  ],
+  "containerPath" : "/Users/bobbypalmer/Desktop/Landmarks/Landmarks.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "indexbuild",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "macosx",
+      "sdk" : "macosx13.0",
+      "sdkVariant" : "macos",
+      "supportedArchitectures" : [
+        "arm64e",
+        "arm64",
+        "x86_64"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/bobbypalmer/Desktop/Landmarks/DerivedData/Landmarks/Index.noindex/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/bobbypalmer/Desktop/Landmarks/DerivedData/Landmarks/Index.noindex/Build/Products",
+      "derivedDataPath" : "/Users/bobbypalmer/Desktop/Landmarks/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/bobbypalmer/Desktop/Landmarks/DerivedData/Landmarks/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/bobbypalmer/Desktop/Landmarks/DerivedData/Landmarks/Index.noindex/PrecompiledHeaders",
+      "pchPath" : "/Users/bobbypalmer/Desktop/Landmarks/DerivedData/Landmarks/Index.noindex/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO",
+          "INDEX_ARENA_INFO_REGULAR_BUILD_PRODUCTS_DIR" : "/Users/bobbypalmer/Desktop/Landmarks/DerivedData/Landmarks/Build/Products",
+          "ONLY_ACTIVE_ARCH" : "YES"
+        }
+      }
+    }
+  },
+  "qos" : "default",
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

@@ -1,0 +1,9 @@
+version: "Apple Swift version 5.7.1 (swiftlang-5.7.1.135.3 clang-1400.0.29.51)"
+options: "6285e31f4bd16e4d8ef782ac42b20108c6c51b322ad40f8bd8e71326a4d692cf"
+build_start_time: [1670295791, 458521842]
+build_end_time: [1670295791, 869526863]
+inputs:
+  "/Users/bobbypalmer/Desktop/Landmarks/Landmarks/CircleImage.swift": [1670295692, 327779054]
+  "/Users/bobbypalmer/Desktop/Landmarks/Landmarks/ContentView.swift": [1670295376, 83465814]
+  "/Users/bobbypalmer/Desktop/Landmarks/Landmarks/LandmarksApp.swift": [1670293660, 356618165]
+  "/Users/bobbypalmer/Desktop/Landmarks/Landmarks/MapView.swift": [1670295791, 411293268]
